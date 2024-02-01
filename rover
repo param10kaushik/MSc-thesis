@@ -1,8 +1,5 @@
 % Rover_Motor_Model_v1.00
 %
-% S. Shilliday
-% Created: 04/10/2018
-% Last Edited: 08/10/2018
 %
 % This function script is designed to be used alongside 
 % Rover_Rigid_Body_Model.m and Rover_4WD_State_Feedback_Controller.m
